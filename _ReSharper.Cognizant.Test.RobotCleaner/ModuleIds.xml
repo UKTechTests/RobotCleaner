@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="77F3948B-AEE2-4B76-AB43-1C303A501054" ModuleId="Cognizant.Test.RobotCleaner.Tests" />
+  <Module PersistentId="53E79878-B6AA-4719-A219-9C3AA7E35B7C" ModuleId="Cognizant.Test.RobotCleaner" />
+</Modules>

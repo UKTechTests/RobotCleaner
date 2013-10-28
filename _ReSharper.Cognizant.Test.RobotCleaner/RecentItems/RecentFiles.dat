@@ -1,0 +1,32 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/d:Navigations/f:Return.cs" caret="391" fromTop="16" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/d:Navigations/f:CleaningTests.cs" caret="2161" fromTop="72" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/d:Navigations/f:ReturnTests.cs" caret="452" fromTop="16" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:CellTests.cs" caret="536" fromTop="21" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:TurnLeftCommandTests.cs" caret="530" fromTop="17" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:TurRightNavigationTests.cs" caret="258" fromTop="10" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:WalkCommandTests.cs" caret="538" fromTop="17" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:IPrinter.cs" caret="0" fromTop="0" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:ICleaning.cs" caret="0" fromTop="0" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:IReturn.cs" caret="0" fromTop="0" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:PositionTests.cs" caret="1351" fromTop="32" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:RoomTests.cs" caret="2324" fromTop="46" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/d:Navigations/f:Cleaning.cs" caret="919" fromTop="34" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:DirectionMapperTests.cs" caret="1033" fromTop="15" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:DirectionMapper.cs" caret="2437" fromTop="74" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:Room.cs" caret="783" fromTop="15" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:RoomStub.cs" caret="165" fromTop="8" />
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:EndToEndPrintedOutput.cs" caret="434" fromTop="15" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:Position.cs" caret="312" fromTop="15" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:Cell.cs" caret="670" fromTop="29" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:Command.cs" caret="997" fromTop="33" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:TurnRightCommand.cs" caret="0" fromTop="0" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:TurnLeftCommand.cs" caret="379" fromTop="16" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:WalkCommand.cs" caret="0" fromTop="0" />
+    <File id="53E79878-B6AA-4719-A219-9C3AA7E35B7C/f:Robot.cs" caret="971" fromTop="27" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="77F3948B-AEE2-4B76-AB43-1C303A501054/f:EndToEndPrintedOutput.cs" caret="168" fromTop="7" />
+  </RecentEdits>
+</RecentFiles>
